@@ -6,6 +6,8 @@ Never_Publish/
 __pycache__/
 *.py[codz]
 *$py.class
+__pycache__/
+*.py[cod]
 
 # C extensions
 *.so
